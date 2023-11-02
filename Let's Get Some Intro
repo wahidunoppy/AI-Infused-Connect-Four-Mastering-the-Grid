@@ -1,0 +1,10 @@
+Connect Four is a tried-and-true board game where the objective is to form a line of
+four discs in a row, vertically, horizontally, or diagonally. Players take turns dropping their discs
+into the grid, aiming to outwith their opponent and form winning combinations. It's a game of
+strategy and foresight, as players must plan ahead while blocking their rival's moves. This
+project lies in the integration of AI, enabling players to engage with a computer opponent. This
+AI-driven gameplay will make the experience enjoyable and challenging for players.
+Through the project, we aim to capture the Connect Four while introducing a new dimension of
+competition. The game ends with a victory for the player who achieves the line of four discs or
+in a draw if the grid fills up without a winner. Connect Four provides fun and engaging
+entertainment for all ages.
